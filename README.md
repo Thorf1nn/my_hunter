@@ -6,9 +6,9 @@ My_Hunter is a SFML project in C in order to replicate the Duck Hunt game
 
 ## Contents 📌
 
- - [Goal](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Usage](https://github.com/matiassingers/awesome-readme)
- - [Help](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Goal](https://github.com/Thorf1nn/my_hunter/blob/main/README.md#goal-)
+ - [Usage](https://github.com/Thorf1nn/my_hunter/blob/main/README.md#usage-)
+ - [Help](https://github.com/Thorf1nn/my_hunter/blob/main/README.md#help-)
 
 
 ## Goal 🎯
