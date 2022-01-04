@@ -1,7 +1,8 @@
 
 # My_Hunter 🎮
 
-My_Hunter is a SFML project in C in order to replicate the Duck Hunt game
+My_Hunter is a SFML project in C in order to replicate the Duck Hunt game.
+It's the first graphical project at Epitech
 
 
 ## Contents 📌
